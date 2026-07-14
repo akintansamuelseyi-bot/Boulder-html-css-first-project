@@ -1,0 +1,54 @@
+body {
+  margin: auto;
+  padding-left: auto;
+  padding-right: auto;
+  width: 1000px;
+}
+.logo {
+  margin: 0%;
+  padding: 0%;
+  margin: auto;
+  text-align: center;
+}
+.head1 {
+  text-align: center;
+  color: rgb(71, 71, 156);
+  text-size-adjust: bold;
+}
+.head2 {
+  color: orange;
+  margin-bottom: 16px;
+}
+.body1 {
+  color: rgb(13, 13, 231);
+  text-decoration: underline;
+}
+.number1 {
+  margin-bottom: 3px;
+}
+.number2 {
+  margin-bottom: 3px;
+}
+.number3 {
+  margin-bottom: 3px;
+}
+.number4 {
+  margin-bottom: 3px;
+}
+.number5 {
+  margin-bottom: 3px;
+}
+.bouldering {
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.footer1 {
+  text-align: center;
+  border: solid 3px;
+  background-color: navy;
+  color: white;
+  width: auto;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
